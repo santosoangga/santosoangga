@@ -8,7 +8,7 @@ My professional journey has been dedicated to the dynamic world of software deve
 
 ### 💻 Tech Stack Mastery:
 
-## 🌐 Frontend Development
+#### 🌐 Frontend Development
 - **React** ![React](https://skillicons.dev/icons?i=react)
 - **Next.js** ![Next.js](https://skillicons.dev/icons?i=nextjs)
 - **Tailwind CSS** ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
