@@ -13,22 +13,22 @@ My professional journey has been dedicated to the dynamic world of software deve
 - **Next.js** ![Next.js](https://skillicons.dev/icons?i=nextjs)
 - **Tailwind CSS** ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
-## 🖥️ Backend Development
+#### 🖥️ Backend Development
 - **Node.js** ![Node.js](https://skillicons.dev/icons?i=nodejs)
 - **Laravel** ![Laravel](https://skillicons.dev/icons?i=laravel)
 - **Go** ![Go](https://skillicons.dev/icons?i=go)
 
-## 📱 Mobile Development
+#### 📱 Mobile Development
 - **Flutter** ![Flutter](https://skillicons.dev/icons?i=flutter)
 
-## 🗄️ Databases
+#### 🗄️ Databases
 - **MongoDB** ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 - **MySQL** ![MySQL](https://skillicons.dev/icons?i=mysql)
 - **PostgreSQL** ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-## 💻 Programming Languages
+#### 💻 Programming Languages
 - **TypeScript** ![TypeScript](https://skillicons.dev/icons?i=ts)
 - **Python** ![Python](https://skillicons.dev/icons?i=py)
 
-## 🛠️ Development Tools
+#### 🛠️ Development Tools
 - **VS Code** ![VS Code](https://skillicons.dev/icons?i=vscode)
